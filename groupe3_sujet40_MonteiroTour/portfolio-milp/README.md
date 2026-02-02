@@ -1,5 +1,5 @@
 # Portfolio Optimization with Real-World Constraints (CSP/MILP)
-Projet #40 — Optimisation de portefeuille avec contraintes réelles : lots entiers, cardinalité, diversification sectorielle, coûts de transaction, turnover cap, risque CVaR (scénarios), évaluation walk-forward out-of-sample.
+Projet #40 - Optimisation de portefeuille avec contraintes réelles : lots entiers, cardinalité, diversification sectorielle, coûts de transaction, turnover cap, risque CVaR (scénarios), évaluation walk-forward out-of-sample.
 
 > Point d’entrée “présentation” : `python main.py`  
 > Il affiche **uniquement 2 figures** (Wealth OOS + Pareto Sharpe vs Turnover) et imprime un mini-report terminal.
